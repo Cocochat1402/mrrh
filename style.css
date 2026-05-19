@@ -54,6 +54,11 @@ body, .container, .video-controls, .video-timer, .options{
   transition: all 0.13s ease;
 }
 
+.text{
+  text-align: left;
+  width: 60%;
+}
+
 .wrapper::before{
   content: "";
   bottom: 0;
