@@ -46,6 +46,14 @@ body, .container, .video-controls, .video-timer, .options{
   bottom: 0;
   transition: all 0.13s ease;
 }
+
+.container 2{
+  text-align: left
+  opacity: 1;
+  bottom: 0;
+  transition: all 0.13s ease;
+}
+
 .wrapper::before{
   content: "";
   bottom: 0;
