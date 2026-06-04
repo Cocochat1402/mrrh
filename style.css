@@ -249,4 +249,10 @@ body, .container, .video-controls, .video-timer, .options{
   .right .pic-in-pic{
     display: none;
   }
+.marge-bot {
+  margin-bottom: 50px;
+}
+  .marge-top {
+  margin-top: 50px;
+}
 }
