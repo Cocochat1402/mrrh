@@ -16,7 +16,7 @@ body, .container, .video-controls, .video-timer, .options{
   justify-content: center;
 }
 .container{
-  width: 98%;
+  width: 90%;
   user-select: none;
   overflow: hidden;
   max-width: 900px;
@@ -25,6 +25,7 @@ body, .container, .video-controls, .video-timer, .options{
   aspect-ratio: 16 / 9;
   position: relative;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 5%;
 }
 .container.fullscreen{
   max-width: 100%;
@@ -249,10 +250,4 @@ body, .container, .video-controls, .video-timer, .options{
   .right .pic-in-pic{
     display: none;
   }
-.marge-bot {
-  margin-bottom: 50px;
-}
-  .marge-top {
-  margin-top: 50px;
-}
 }
